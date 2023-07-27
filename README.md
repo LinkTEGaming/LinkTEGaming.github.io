@@ -1,2 +1,1 @@
-I just decided to make this on a whim so don't expect there to be much
-
+I might work on this in the future if I find a use for it
