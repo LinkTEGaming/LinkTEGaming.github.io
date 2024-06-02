@@ -1,8 +1,27 @@
 body {
-  background-color: black;
+  background-image: url('fire.gif');
+  background-attachment: fixed;
+}
+
+h1 {
+  color: white;
 }
 
 p {
-  color: white;
-  font-size: larger;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  text-align: left;
+  color: black;
+  font-size: 35px;
+}
+
+#header {
+  width: 800px;
+  margin: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#main {
+  width: 800px;
+  height: 914px;
+  background-color: #FFFFFF;
 }
