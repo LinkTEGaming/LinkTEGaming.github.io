@@ -1,6 +1,8 @@
 body {
   background-image: url('https://linktegaming.github.io/fire.gif');
   background-attachment: fixed;
+  background-position: bottom;
+  background-size: cover;
 }
 
 h1 {
@@ -9,9 +11,9 @@ h1 {
 
 p {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  text-align: left;
+  text-align: center;
   color: black;
-  font-size: 35px;
+  font-size: 3.5vmin;
 }
 
 #header {
